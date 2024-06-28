@@ -60,5 +60,4 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=qazinalam&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-![image](https://github.com/qazinalam/qazinalam/assets/151718162/8cf8e161-16a4-4e15-92df-fe02d9dc4ccd)
-![image](https://github.com/qazinalam/qazinalam/assets/151718162/79e8fb98-870c-4a5e-a139-7dab403b929c)
+
