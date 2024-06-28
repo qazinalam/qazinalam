@@ -5,10 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu976&theme=dark_lover" alt="sudhanshu976" /></a> </p>
 
-- 🔭 PORTFOLIO WEBSITE [(Click Here)](https://portfolio-sudhanshu00.000webhostapp.com/)
-- 🔭 PROJECTS WEBSITE [(Click Here)](https://personalsudhanshu.streamlit.app/MY_PROJECTS)
-- 🔭 LINKEDIN PROFILE [( 3.5k+ followers and 2000+ connections )] [(Click Here)]([(https://www.linkedin.com/in/qazinalam/))
-  - 
+
+ 
 - 🌱 I’m currently learning **Generative AI**
 
 - 📫 How to reach me **qazinalam@gmail.com**
@@ -63,4 +61,4 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sudhanshu976&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-![image](https://github.com/qazinalam/qazinalam/assets/151718162/75322c5c-05c8-4eb5-91e3-2dbba79d322f)
+
