@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Data Engineer with **2+ years of experience** designing and optimizing scalable **ETL/ELT pipelines, batch and real-time data processing workflows, and cloud data platforms**. Skilled in **Python, PySpark, Databricks, Delta Lake, SQL, Apache Airflow, Apache Kafka, AWS, and Azure**.
+Data Engineer with **2.5+ years of experience** designing and optimizing scalable **ETL/ELT pipelines, batch and real-time data processing workflows, and cloud data platforms**. Skilled in **Python, PySpark, Databricks, Delta Lake, SQL, Apache Airflow, Apache Kafka, AWS, and Azure**.
 
 Experienced in building production-grade data pipelines, implementing **incremental processing, SCD Type-2, data quality frameworks, Spark optimization, workflow automation, and cloud-based data platforms**.
 
