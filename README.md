@@ -1,75 +1,49 @@
-
 # Qazi Noman Alam — Data Engineer
 
 ## 🚀 About Me
 
-Data Engineer with **2+ years of experience** building scalable ETL/ELT pipelines, batch and real-time data processing workflows, and cloud-based data platforms.
+Data Engineer with **2+ years of experience** designing and optimizing scalable **ETL/ELT pipelines, batch and real-time data processing workflows, and cloud data platforms**. Skilled in **Python, PySpark, Databricks, Delta Lake, SQL, Apache Airflow, Apache Kafka, AWS, and Azure**.
 
-Hands-on experience with **Python, PySpark, Databricks, Delta Lake, SQL, Apache Airflow, Kafka, AWS, and Azure**. Experienced in Spark optimization, incremental data processing, data quality, SCD Type-2, orchestration, and CI/CD.
+Experienced in building production-grade data pipelines, implementing **incremental processing, SCD Type-2, data quality frameworks, Spark optimization, workflow automation, and cloud-based data platforms**.
 
 - 🔭 Currently working as a **Data Engineer**
-- 🌱 Exploring **Data Engineering, GenAI, AI-powered data platforms & distributed systems**
-- ⚡ Interested in building scalable, reliable and cost-efficient data pipelines
+- 🌱 Upskilling in **GenAI, Data Engineering, Distributed Systems & Cloud Technologies**
+- ⚡ Interested in building **scalable data platforms, streaming pipelines and AI-powered data engineering solutions**
+- 💡 Passionate about **data pipelines, lakehouse architecture, performance optimization and automation**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 
-### 👨‍💻 Programming
-- Python
-- SQL
-- Shell Scripting
+- **Programming:** Python, SQL, Shell Scripting
+- **Big Data & Processing:** Apache Spark, PySpark, Spark SQL, Databricks, Delta Lake
+- **Streaming:** Apache Kafka, Spark Structured Streaming
+- **Data Engineering:** ETL, ELT, Data Pipelines, Incremental Processing, CDC, SCD Type-2
+- **Cloud Platforms:** AWS, Azure
+- **AWS:** S3, EMR, Glue, Lambda, IAM, Lake Formation, ECR
+- **Azure:** Azure Data Factory, ADLS, Azure Databricks, Synapse Analytics
+- **Orchestration:** Apache Airflow, AWS Glue Workflows, Azure Data Factory
+- **Databases:** Snowflake, PostgreSQL, MySQL, MongoDB, MS SQL Server
+- **Data Lake / Lakehouse:** Delta Lake, AWS S3, ADLS
+- **DevOps:** Docker, Kubernetes, Git, GitHub, CI/CD
+- **Data Quality:** Great Expectations, Data Validation, Data Profiling, Quality Metrics
+- **Analytics & Visualization:** Tableau, Power BI
+- **Tools:** JIRA, Postman
 
-### ⚡ Data Engineering
-- Apache Spark
-- PySpark
-- Spark SQL
-- Databricks
-- Delta Lake
-- Apache Kafka
-- Spark Structured Streaming
-- ETL / ELT
-- Data Modeling
-- Data Warehousing
-- CDC
-- SCD Type-2
+---
 
-### ☁️ Cloud
+## 📈 Professional Highlights
 
-**AWS**
-- S3
-- EMR
-- Glue
-- Lambda
-- IAM
-- Lake Formation
-- ECR
-
-**Azure**
-- Azure Data Factory
-- ADLS
-- Azure Databricks
-- Synapse Analytics
-
-### 🔄 Orchestration & DevOps
-- Apache Airflow
-- AWS Glue Workflows
-- Docker
-- Kubernetes
-- Git
-- GitHub
-- CI/CD
-- JIRA
-- Postman
-
-### 🗄️ Databases & Analytics
-- Snowflake
-- PostgreSQL
-- MySQL
-- MongoDB
-- MS SQL Server
-- Power BI
-- Tableau
+- ⚡ Reduced data processing latency by **30%** through optimized batch and real-time ingestion pipelines.
+- 🚀 Improved Spark job performance by **15%** using partitioning, caching and query optimization.
+- 💰 Reduced cloud processing costs by **20%** through Spark performance optimization.
+- 🔄 Automated end-to-end data workflows using **Apache Airflow**.
+- 🐳 Implemented CI/CD pipelines using **Docker and AWS ECR**.
+- ⚙️ Reduced manual intervention by **70%** through workflow automation.
+- 📊 Developed executive-level **Tableau dashboards** for KPI tracking and data-driven decisions.
+- ☁️ Worked with both **AWS and Azure cloud data platforms**.
+- 🔍 Built automated data quality validation and monitoring workflows for large-scale datasets.
+- 🗃️ Implemented **Delta Lake MERGE/UPSERT and SCD Type-2** for maintaining historical data.
 
 ---
 
@@ -77,96 +51,171 @@ Hands-on experience with **Python, PySpark, Databricks, Delta Lake, SQL, Apache 
 
 ### 🔹 Data Quality Engine
 
-**Tech:** PySpark • Delta Lake • Great Expectations • Airflow • Docker • Kubernetes • AWS ECR
+**Tech Stack:** PySpark • Delta Lake • Great Expectations • Airflow • Docker • Kubernetes • AWS ECR
 
-- Built a **metadata-driven Data Quality Engine** using PySpark and Delta Lake.
-- Implemented configurable checks for **completeness, uniqueness, freshness, regex and custom SQL rules**.
-- Added configurable thresholds and severity levels for validation.
-- Built automated **data quality scoring and audit logging**.
-- Persisted rule-level and table-level quality metrics in Delta Lake.
-- Orchestrated quality validation using **Airflow and Kubernetes**.
-- Added failure handling, monitoring and CI/CD deployment.
+A metadata-driven Data Quality Engine designed to automate data validation across large-scale datasets and Delta tables.
+
+**Key Features:**
+
+- Automated data validation using configurable metadata
+- Completeness checks
+- Uniqueness checks
+- Freshness validation
+- Regex-based validation
+- Custom SQL-based quality checks
+- Configurable thresholds and severity levels
+- Rule-level and table-level quality scoring
+- Automated audit logging
+- Delta Lake-based persistence
+- Airflow orchestration
+- Kubernetes-based execution
+- Failure handling and monitoring
+- Docker-based deployment
+- AWS ECR integration
 
 ---
 
 ### 🔹 Incremental Data Lake Pipeline
 
-**Tech:** Databricks • PySpark • Delta Lake • AWS S3 • Azure Data Lake
+**Tech Stack:** Databricks • PySpark • Delta Lake • AWS S3 • Azure Data Lake
 
-- Developed a production-grade **incremental data lake pipeline** for large-scale structured and semi-structured data.
-- Implemented **Delta Lake MERGE/upsert operations**.
-- Applied **SCD Type-2** logic for historical data tracking.
-- Used ACID-compliant Delta tables for reliable data processing.
-- Optimized Spark workloads using **partition pruning and Delta compaction**.
-- Added schema validation and automated data quality checks.
+Production-grade incremental data pipeline designed for processing large-scale structured and semi-structured datasets.
 
----
+**Key Features:**
 
-## 📈 Professional Highlights
-
-- ⚡ Reduced data latency by **30%** through optimized batch and real-time ingestion.
-- 🚀 Improved Spark job performance by **15%** using partitioning, caching and query tuning.
-- 💰 Reduced cloud processing costs by **20%** through Spark optimization.
-- 🔄 Automated end-to-end workflows using **Apache Airflow**.
-- 🐳 Implemented CI/CD workflows using **Docker and AWS ECR**.
-- 🤖 Reduced manual intervention by **70%** through workflow automation.
-- 📊 Built Tableau dashboards for executive-level KPI tracking.
+- Incremental data processing
+- Delta Lake MERGE/UPSERT operations
+- SCD Type-2 implementation
+- ACID-compliant data storage
+- Partition pruning
+- Delta table optimization
+- Schema validation
+- Data quality checks
+- Analytics-ready datasets
 
 ---
 
-## 📚 Currently Exploring
+## ⚡ Big Data & Streaming
 
-- 🤖 Generative AI for Data Engineering
-- 🧠 AI-powered Data Quality & Root Cause Analysis
-- 🔄 Streaming CDC Pipelines
-- ⚡ Apache Kafka & Spark Structured Streaming
-- 🏗️ Modern Data Lakehouse Architecture
-- ☁️ Cloud Data Engineering
-- 🔍 Data Observability & Pipeline Monitoring
+### Apache Spark
 
----
+- PySpark
+- Spark SQL
+- Spark optimization
+- Partitioning
+- Caching
+- Query optimization
+- Partition pruning
+- Delta optimization
 
-## 🎓 Education & Certifications
+### Apache Kafka
 
-🎓 **B.Tech — Electronics & Instrumentation Engineering**  
-M.J.P. Rohilkhand University | 2020–2024
-
-### Certifications
-- Google Data Analytics — Google
-- Project Management — HP
-- Python — Scaler
-- SQL Advanced — HackerRank
+- Event streaming
+- Real-time ingestion
+- Kafka-based data pipelines
+- Spark Structured Streaming
 
 ---
 
-## 📊 GitHub Focus
+## 📊 Data Quality
 
-I use GitHub to build and share projects around:
+I have worked on building automated data quality pipelines covering:
 
-```text
-Data Engineering
-      ↓
-PySpark + Databricks
-      ↓
-ETL / ELT + Streaming
-      ↓
-Delta Lake / Data Lakehouse
-      ↓
-Airflow + Kafka
-      ↓
-AWS + Azure
-      ↓
-Data Quality + Observability
-```
+- ✅ Completeness
+- ✅ Uniqueness
+- ✅ Freshness
+- ✅ Regex Validation
+- ✅ Custom SQL Validation
+- ✅ Threshold-based Validation
+- ✅ Severity-based Rules
+- ✅ Data Quality Scores
+- ✅ Audit Logging
+- ✅ Table-level Metrics
+- ✅ Rule-level Metrics
+
+**Technology:** PySpark • Delta Lake • Great Expectations • Airflow • Kubernetes
+
+---
+
+## 📚 Currently Learning
+
+### 🤖 Generative AI
+
+Exploring how AI can be integrated into modern data engineering platforms:
+
+- AI-powered pipeline monitoring
+- Automated failure analysis
+- Root cause analysis
+- Intelligent remediation recommendations
+- Data quality intelligence
+- AI-assisted SQL
+- AI-powered data observability
+
+### ⚡ Advanced Data Engineering
+
+- Streaming architectures
+- CDC pipelines
+- Kafka
+- Spark Structured Streaming
+- Lakehouse architecture
+- Data observability
+- Distributed systems
+- Cloud-native data platforms
+
+---
+
+## 🎯 Career Interests
+
+I'm particularly interested in opportunities involving:
+
+- Data Engineering
+- Big Data Engineering
+- Cloud Data Engineering
+- PySpark
+- Databricks
+- AWS Data Engineering
+- Azure Data Engineering
+- Data Platform Engineering
+- Streaming Data Engineering
+- Data Lakehouse Architecture
+
+---
+
+## 🎓 Education
+
+### 🎓 B.Tech — Electronics & Instrumentation Engineering
+
+**M.J.P. Rohilkhand University**  
+2020 – 2024
+
+---
+
+## 📜 Certifications
+
+- **Google Data Analytics** — Google | 2025
+- **Project Management** — HP | 2024
+- **Python** — Scaler | 2024
+- **SQL Advanced** — HackerRank | 2024
+
+---
+
+## 🧰 Technologies I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,aws,azure,docker,kubernetes,git,github,kafka,mysql,postgres,mongodb" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=apacheairflow,databricks,spark" />
+
+</div>
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 Email: **qazinalam@gmail.com**
-- 💼 LinkedIn: **[linkedin.com/in/qazinalam](https://linkedin.com/in/qazinalam)**
-- 🐙 GitHub: **[github.com/qazinalam](https://github.com/qazinalam)**
+- 📧 **Email:** [qazinalam@gmail.com](mailto:qazinalam@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/qazinalam](https://linkedin.com/in/qazinalam)
+- 🐙 **GitHub:** [github.com/qazinalam](https://github.com/qazinalam)
 
----
-
-⭐ **Always learning. Always building. Always optimizing data.**
